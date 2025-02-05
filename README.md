@@ -19,9 +19,9 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/celioso/Cursos-de-Platzi)
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, February 5th, 2025, 1:12:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
