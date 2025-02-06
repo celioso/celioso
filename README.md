@@ -2,15 +2,15 @@
 
 :computer: **Mechatronic Engineer**
 
-:pencil: 
+:pencil: **Developing new skills**
 
-:eyeglasses: 
+:eyeglasses: **Learning new programming and engineering skills**
 
-:oncoming_automobile: 
+:oncoming_automobile: **Fanatic of cars, simulators, and sports**
 
-:family: 
+:family: **With my mother, uncles, and two cats**
 
-### Vias de contacto
+### Contact Information
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mario-alexander-vargas-celis/)      [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/celioso)      [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/celismarioalexander/)
 
@@ -18,7 +18,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/celioso/Cursos-de-Platzi)
 
-### :zap: Actividad reciente
+### :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
 <<<<<<< HEAD
 
