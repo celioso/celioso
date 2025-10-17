@@ -24,9 +24,9 @@
 2. ⬆️ Pushed undefined commit(s) to [celioso/PythonyEstructuras](https://github.com/celioso/PythonyEstructuras)<br>
 3. ⬆️ Pushed undefined commit(s) to [celioso/PythonyEstructuras](https://github.com/celioso/PythonyEstructuras)<br>
 4. ⬆️ Pushed undefined commit(s) to [celioso/PythonyEstructuras](https://github.com/celioso/PythonyEstructuras)<br>
-5. ⬆️ Pushed undefined commit(s) to [celioso/Cursos-de-Platzi](https://github.com/celioso/Cursos-de-Platzi)<br>
+5. ⬆️ Pushed undefined commit(s) to [celioso/PythonyEstructuras](https://github.com/celioso/PythonyEstructuras)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 17th, 2025, 12:51:20 AM
+Last Updated: Friday, October 17th, 2025, 12:21:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
