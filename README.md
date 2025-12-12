@@ -20,13 +20,13 @@
 
 ### :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [celioso/SOCIAL_WEBSITE](https://github.com/celioso/SOCIAL_WEBSITE)<br>
-2. ⬆️ Pushed undefined commit(s) to [celioso/SOCIAL_WEBSITE](https://github.com/celioso/SOCIAL_WEBSITE)<br>
+1. ⬆️ Pushed undefined commit(s) to [celioso/Cursos-de-Platzi](https://github.com/celioso/Cursos-de-Platzi)<br>
+2. ⬆️ Pushed undefined commit(s) to [celioso/Cursos-de-Platzi](https://github.com/celioso/Cursos-de-Platzi)<br>
 3. ⬆️ Pushed undefined commit(s) to [celioso/SOCIAL_WEBSITE](https://github.com/celioso/SOCIAL_WEBSITE)<br>
 4. ⬆️ Pushed undefined commit(s) to [celioso/SOCIAL_WEBSITE](https://github.com/celioso/SOCIAL_WEBSITE)<br>
 5. ⬆️ Pushed undefined commit(s) to [celioso/SOCIAL_WEBSITE](https://github.com/celioso/SOCIAL_WEBSITE)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 11th, 2025, 12:25:08 PM
+Last Updated: Friday, December 12th, 2025, 12:57:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
